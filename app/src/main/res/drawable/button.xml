@@ -17,8 +17,8 @@
                     android:right="10dp"
                     android:bottom="10dp" />
                 <size
-                    android:width="75dp"
-                    android:height="75dp" />
+                    android:width="70dp"
+                    android:height="70dp" />
             </shape>
         </item>
         <item android:state_pressed="true">
@@ -36,8 +36,8 @@
                     android:right="10dp"
                     android:bottom="10dp" />
                 <size
-                    android:width="75dp"
-                    android:height="75dp" />
+                    android:width="70dp"
+                    android:height="70dp" />
 
             </shape>
         </item>
@@ -58,8 +58,8 @@
                     android:right="10dp"
                     android:bottom="10dp" />
                 <size
-                    android:width="75dp"
-                    android:height="75dp" />
+                    android:width="70dp"
+                    android:height="70dp" />
             </shape>
         </item>
 
