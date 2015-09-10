@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JuegoMem</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="historial">Historial</string>
+    <string name="regresar">Regresar</string>
+    <string name="action_settings">Settings</string>
+    <string name="Informacion">Info</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="title_activity_informacion">Informacion</string>
+</resources>
