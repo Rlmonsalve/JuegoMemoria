@@ -68,6 +68,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         String text = mSharedPreferences.getString(skey1, "0");
         intentos=Integer.parseInt(text);
         intentos=intentos+1;
+        SharedPreferences.Editor editor = mSharedPreferences.edit();
+        editor.putString(skey1, intentos + "");
+        editor.commit();
 
         mSharedPreferences = PreferenceManager
                 .getDefaultSharedPreferences(getApplicationContext());

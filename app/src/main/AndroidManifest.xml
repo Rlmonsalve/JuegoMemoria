@@ -25,7 +25,6 @@
                 android:value="com.rlmonsalve.juegomem.MainActivity" />
         </activity>
         <activity
-            android:theme="@android:style/Theme.Dialog"
             android:name=".Informacion"
             android:label="@string/title_activity_informacion"
             android:parentActivityName=".MainActivity" >

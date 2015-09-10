@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="El objetivo del juego es encontrar las parejas que contengan el mismo numero. Cada pareja correcta equivale a 1 punto. Para reiniciar el juego ajite el celular."
+        android:text="El objetivo del juego es encontrar las parejas que contengan el mismo numero. Cada pareja correcta equivale a 1 punto. Para reiniciar el juego sacudir el celular."
         android:id="@+id/textView"
         android:textSize="25sp"
         android:layout_alignParentTop="true"
